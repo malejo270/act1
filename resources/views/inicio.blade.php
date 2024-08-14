@@ -44,7 +44,7 @@
     </div>
     <br><br>
     <h1 class="letra">Spiderman</h1>
-    <p class="letra">Bienvenido a nuestra página dedicada a Spiderman, el icónico superhéroe de Marvel que ha inspirado a generaciones con su valentía, ingenio y sentido de responsabilidad. Desde su primera aparición en 1962, Spiderman ha pasado de ser un simple adolescente con problemas cotidianos a convertirse en un símbolo de esperanza y justicia para millones de fans en todo el mundo.</p>
+
     <div align='center'>
     <img src="imagenes/peter.jpg" height="350" width="350">
     </div><br>
